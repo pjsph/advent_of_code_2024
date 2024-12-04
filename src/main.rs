@@ -4,9 +4,13 @@ mod day01 {
 mod day02 {
     pub mod main;
 }
+mod day04 {
+    pub mod main;
+}
 
 
 fn main() {
     //day01::main::main();
-    day02::main::main();
+    //day02::main::main();
+    day04::main::main();
 }
